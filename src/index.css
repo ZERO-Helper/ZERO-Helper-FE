@@ -1,0 +1,15 @@
+@import 'tailwindcss';
+
+/* 이후 색상 추가 예정 */
+@theme {
+  --color-black: #000000;
+}
+
+@utility no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
