@@ -9,7 +9,7 @@
 
 ## 🙋🏻‍♀️ Page Partner의 FE Developer를 소개합니다!
 
-| <a href="https://github.com/p1001q"><img src="https://avatars.githubusercontent.com/u/201849046?v=4" width="120px;" alt=""/></a> | <a href="https://github.com/yeon-yeon1"><img src="https://avatars.githubusercontent.com/u/158417764?v=4" width="120px;" alt=""/></a> | <a href="https://github.com/suminn01"><img src="https://avatars.githubusercontent.com/u/201858216?v=4" width="120px;" alt=""/></a> |
+| <a href="https://github.com/p1001q"><img src="https://avatars.githubusercontent.com/u/201849046?v=4" width="120px;" alt=""/></a> | <a href="https://github.com/yeon-yeon1"><img src="https://avatars.githubusercontent.com/u/158417764?v=4" width="120px;" alt=""/></a> | <a href="https://github.com/dlalswo0619"><img src="https://avatars.githubusercontent.com/u/201858216?v=4" width="120px;" alt=""/></a> |
 | --- | --- | -- |
 | 박수연 | 노진경 | 이민재 |
 
