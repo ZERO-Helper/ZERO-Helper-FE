@@ -173,7 +173,7 @@ develop ← 작업 브랜치
  ┃ ┣ 📂types
  ┃ ┣ 📂utils
  ┃ ┣ 📜App.tsx
- ┃ ┗ 📜main.jsx
+ ┃ ┗ 📜main.tsx
  ┣ 📜.env
  ┣ 📜.gitignore
  ┣ 📜.prettierrc
